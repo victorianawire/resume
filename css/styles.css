@@ -1,0 +1,17 @@
+.intro {
+    width: 40%;
+    float: left;
+    background-color: white;
+    color: black;
+}
+
+.work {
+    width: 60%;
+    float: right;
+    background-color: rgb(95, 94, 94);
+    font: rgb(138, 138, 241);
+}
+
+.p {
+    font: rgb(138, 138, 241);
+}
